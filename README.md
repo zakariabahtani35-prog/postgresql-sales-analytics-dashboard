@@ -419,7 +419,7 @@ The `load_data()` function is decorated with `@st.cache_data`. This means the si
 Data Analyst · Data Engineer · Python Developer
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/zakaria-bahtani-b64251390/)
-- 📧 zakariabahtani35@gmail.com
+- 📧 zakriabhatni35@gmail.com
 
 ---
 
